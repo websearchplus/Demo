@@ -1,0 +1,3 @@
+WEB_SEARCH_PLUS_ENDPOINT='https://api.websearch.plus/v1/web_search_plus'
+OPENAI_API_KEY='sk-proj-'
+WEB_SEARCH_PLUS_API_KEY='sk-ws-'
